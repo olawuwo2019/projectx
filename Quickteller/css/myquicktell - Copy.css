@@ -1,0 +1,219 @@
+
+/*This the css for thr body*/
+body{
+	background-color: lightgrey;
+	background-image: url(../images/chicago.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+/*This the css for the logo*/
+.logo{
+	padding-top: 20px;
+}
+
+/*This the css for the search*/
+.mysearch{
+	padding-top: 10px;
+
+}
+
+/*This the css for the search button*/
+.searchbut{
+	padding-top: 30px;
+	
+}
+
+
+/*This the css for the login*/
+.login{
+	padding-top: 35px;
+	text-align: right;
+	font-weight: bold;
+
+}
+
+
+.login a{
+	color:white;
+}
+
+/*This the css for the secong row buttons*/
+.paypoint{
+	text-align: right;
+	padding-top: 40px;
+}
+.featured{
+	padding-top: 40px;
+}
+
+/*This the css for the third row */
+.imagelite{
+	margin-top: 20px;
+	border:0px solid red;
+	
+}
+
+.lite{
+	position: absolute;
+	top:50px;
+	padding-left: 10px;
+	font-size: 38px;
+	color:#19a0d6;
+
+	
+}
+
+.website{
+	position: absolute;
+	top:170px;
+	color:white;
+	background-color: #19a0d6;
+	font-size: 20px;
+	padding-left: 10px;
+	opacity: 0.8;
+}
+
+.myclick{
+	position: absolute;
+	top:250px;
+	padding-left: 15px;
+
+
+}
+
+.mylaptop{
+	position: absolute;
+	top:60px;
+	left:370px;
+}
+
+
+.myairtime{
+	margin-top: 20px;
+	background-color:#19a0d6;
+	padding:32px 20px 20px 31px;
+	border:0px solid red;
+	color:white;
+	font-weight: bolder;
+	border:1px solid #19a0d6;
+	border-radius: 7%;
+}
+
+.row a {
+	text-decoration:none;
+
+}
+
+.myairtime:hover{
+	background-color:#19a0d6;
+	color:white;
+	font-size: 1.02em; 
+}
+
+
+.mypayments{
+	margin-top: 20px;
+	background-color:#ffffff;
+	padding:32px 20px 20px 31px;
+	border:0px solid red;
+	color:#19a0d6;
+	font-weight: bolder;
+	border:1px solid #ffffff;
+	border-radius: 7%;
+}
+
+
+
+.mypayments:hover{
+	background-color:#ffffff;
+	color:#19a0d6;
+	font-size: 1.20em; 
+}
+
+.mymoney{
+	margin-top: 13px;
+	background-color:#19a0d6;
+	padding:32px 20px 20px 32px;
+	border:0px solid red;
+	color:white;
+	font-weight: bolder;
+	border:1px solid #19a0d6;
+	border-radius: 7%;
+
+}
+
+.mymoney:hover{
+	background-color:#19a0d6;
+	color:white;
+	font-size: 1.20em; 
+}
+
+.myregister{
+	margin-top: 13px;
+	background-color:#76b24f;
+	padding:32px 20px 20px 32px;
+	border:0px solid red;
+	color:white;
+	font-weight: bolder;
+	border:1px solid #76b24f;
+	border-radius: 7%;
+}
+
+.myregister:hover{
+	background-color:#76b24f;
+	color:white;
+	font-size: 1.20em; 
+}
+
+
+.mylast{
+	width: 130px;
+	height: 150px;
+	margin-top: 13px;
+	background-color:white;
+	padding:32px 20px 20px 32px;
+	border:0px solid red;
+	color:#19a0d6;
+	font-weight: bolder;
+	border:1px solid white;
+	border-radius: 7%;
+}
+
+.mylast:hover{
+	background-color:white;
+	color:#19a0d6;
+	font-size: 1.10em; 
+}
+
+
+.mymovie{
+	width: 130px;
+	height: 150px;
+	padding:32px 25px 20px 32px;
+	margin-left: 0px;
+	background-color:#19a0d6;
+	margin-right:10px; 
+	margin-top: 13px;
+	color:white;
+	border:1px solid #19a0d6;
+	border-radius: 7%;
+}
+
+.mymovie:hover{
+	background-color:#19a0d6;
+	color:white;
+	font-size:1.10em;
+}
+.myfooter{
+	margin-top: 30px;
+	background-color: lightgrey;
+}
+
+
+.social li{
+	display:inline;
+	padding:10px ;
+}
+
